@@ -1,0 +1,66 @@
+[
+  {
+    "email": "example@example.com",
+    "password": "yourpassword"
+  },
+  {
+    "email": "Shivani@123",
+    "password": "Shivani"
+  },
+  {
+    "email": "simmi",
+    "password": "shivani"
+  },
+  {
+    "email": "Anuj@123",
+    "password": "anuj@123"
+  },
+  {
+    "email": "priti",
+    "password": "priti"
+  },
+  {
+    "email": "Ankit@123",
+    "password": "Ankit"
+  },
+  {
+    "email": "RaniSingh@123",
+    "password": "rani"
+  },
+  {
+    "email": "Shanti@123",
+    "password": "shanti"
+  },
+  {
+    "email": "shanti@123",
+    "password": "shanti"
+  },
+  {
+    "email": "Aasma@123",
+    "password": "Aasma"
+  },
+  {
+    "email": "tannu@123",
+    "password": "tannu"
+  },
+  {
+    "email": "poojameena@123",
+    "password": "pooja"
+  },
+  {
+    "email": "poojameena21@123",
+    "password": "pooja"
+  },
+  {
+    "email": "navgurukul@123",
+    "password": "navgurukul"
+  },
+  {
+    "email": "navgurukul@12345",
+    "password": "navgurukul"
+  },
+  {
+    "email": "navgurukul@123456",
+    "password": "navgurukul"
+  }
+]
